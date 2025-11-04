@@ -1,1 +1,1 @@
-# AI-salse
+# Deepgram Transcriber\n\nA Next.js app for real-time speech transcription using Deepgram Flux. Deployable on Vercel.
